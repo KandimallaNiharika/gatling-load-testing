@@ -1,0 +1,48 @@
+﻿CODTECH INTERNSHIP
+TASK 4 – LOAD TESTING WITH GATLING
+
+
+1. INTRODUCTION
+Load testing is a critical performance testing technique used to determine how a system behaves under expected and peak user loads. This task focuses on performing advanced load testing using Gatling.
+
+
+2. OBJECTIVE
+The objective of this task was to:
+- Simulate heavy user load on a web application
+- Analyze system performance under stress
+- Identify response times and throughput
+- Verify system stability during peak usage
+
+
+3. TOOL USED
+Gatling was used for this task due to its high performance, Scala-based scripting, and rich HTML reporting features.
+
+
+4. TEST ENVIRONMENT
+- Operating System: Linux
+- Tool: Gatling
+- Test Type: Load Testing
+- Simulation Language: Scala
+
+
+5. TEST EXECUTION
+A custom Gatling simulation was created to simulate multiple concurrent users accessing the application. The simulation was executed using the Gatling command-line interface.
+
+
+6. PERFORMANCE METRICS ANALYZED
+- Number of requests
+- Response time (min, max, average)
+- Requests per second
+- Active users over time
+- Success and failure rates
+
+
+7. RESULTS
+- The system handled concurrent user requests successfully
+- Average response time remained within acceptable limits
+- No major failures or crashes occurred during testing
+- System performance was stable under simulated load
+
+
+8. CONCLUSION
+The load testing exercise using Gatling was successfully completed. The system demonstrated good stability and performance under heavy load conditions. This task provided hands-on experience with performance testing and report analysis.
